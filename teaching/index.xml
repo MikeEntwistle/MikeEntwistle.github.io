@@ -1,174 +1,99 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Teaching | Dr Mike Entwistle</title>
-    <link>/teaching/</link>
-      <atom:link href="/teaching/index.xml" rel="self" type="application/rss+xml" />
-    <description>Teaching</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 24 Jan 2021 00:00:00 +0000</lastBuildDate>
-    <image>
-      <url>/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
-      <title>Teaching</title>
-      <link>/teaching/</link>
-    </image>
-    
-    <item>
-      <title>📊 Learn Data Science</title>
-      <link>/teaching/example/</link>
-      <pubDate>Sun, 24 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>/teaching/example/</guid>
-      <description>
-
-
-
-
-
-
-
-
-
-
-
-
-
-&lt;figure  &gt;
-  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;
-        &lt;img alt=&#34;&#34; srcset=&#34;
-               /teaching/example/featured_hu76eaa58daf827988c1005eeac201f4e9_1602413_f33984f4a1c4cb67b249fda35b37581e.jpg 400w,
-               /teaching/example/featured_hu76eaa58daf827988c1005eeac201f4e9_1602413_a1cd7731d90ffc91b37c0af3081d00b6.jpg 760w,
-               /teaching/example/featured_hu76eaa58daf827988c1005eeac201f4e9_1602413_1200x1200_fit_q75_lanczos.jpg 1200w&#34;
-               src=&#34;/teaching/example/featured_hu76eaa58daf827988c1005eeac201f4e9_1602413_f33984f4a1c4cb67b249fda35b37581e.jpg&#34;
-               width=&#34;760&#34;
-               height=&#34;507&#34;
-               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
-  &lt;/div&gt;&lt;/figure&gt;
-&lt;details class=&#34;toc-inpage d-print-none d-xl-none &#34; open&gt;
-  &lt;summary class=&#34;font-weight-bold&#34;&gt;Table of Contents&lt;/summary&gt;
-  &lt;nav id=&#34;TableOfContents&#34;&gt;
-  &lt;ul&gt;
-    &lt;li&gt;&lt;a href=&#34;#what-you-will-learn&#34;&gt;What you will learn&lt;/a&gt;&lt;/li&gt;
-    &lt;li&gt;&lt;a href=&#34;#program-overview&#34;&gt;Program overview&lt;/a&gt;&lt;/li&gt;
-    &lt;li&gt;&lt;a href=&#34;#courses-in-this-program&#34;&gt;Courses in this program&lt;/a&gt;&lt;/li&gt;
-    &lt;li&gt;&lt;a href=&#34;#meet-your-instructor&#34;&gt;Meet your instructor&lt;/a&gt;&lt;/li&gt;
-    &lt;li&gt;&lt;a href=&#34;#faqs&#34;&gt;FAQs&lt;/a&gt;&lt;/li&gt;
-  &lt;/ul&gt;
-&lt;/nav&gt;
-&lt;/details&gt;
-
-&lt;h2 id=&#34;what-you-will-learn&#34;&gt;What you will learn&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;Fundamental &lt;mark&gt;Python programming skills&lt;/mark&gt;&lt;/li&gt;
-&lt;li&gt;&lt;mark&gt;Statistical concepts&lt;/mark&gt; and how to apply them in practice&lt;/li&gt;
-&lt;li&gt;Gain experience with the &lt;mark&gt;Scikit&lt;/mark&gt;, including data visualization with &lt;mark&gt;Plotly&lt;/mark&gt; and data wrangling with &lt;mark&gt;Pandas&lt;/mark&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&#34;program-overview&#34;&gt;Program overview&lt;/h2&gt;
-&lt;p&gt;The demand for skilled data science practitioners is rapidly growing. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi.&lt;/p&gt;
-&lt;h2 id=&#34;courses-in-this-program&#34;&gt;Courses in this program&lt;/h2&gt;
-
-
-
-&lt;h2 id=&#34;meet-your-instructor&#34;&gt;Meet your instructor&lt;/h2&gt;
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Teaching | Dr Mike Entwistle</title><link>/teaching/</link><atom:link href="/teaching/index.xml" rel="self" type="application/rss+xml"/><description>Teaching</description><generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 24 Jan 2021 00:00:00 +0000</lastBuildDate><image><url>/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url><title>Teaching</title><link>/teaching/</link></image><item><title>📊 Learn Data Science</title><link>/teaching/example/</link><pubDate>Sun, 24 Jan 2021 00:00:00 +0000</pubDate><guid>/teaching/example/</guid><description>
+&lt;figure >
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >
+&lt;img alt="" srcset="
+/teaching/example/featured_hu76eaa58daf827988c1005eeac201f4e9_1602413_f33984f4a1c4cb67b249fda35b37581e.jpg 400w,
+/teaching/example/featured_hu76eaa58daf827988c1005eeac201f4e9_1602413_a1cd7731d90ffc91b37c0af3081d00b6.jpg 760w,
+/teaching/example/featured_hu76eaa58daf827988c1005eeac201f4e9_1602413_1200x1200_fit_q75_lanczos.jpg 1200w"
+src="/teaching/example/featured_hu76eaa58daf827988c1005eeac201f4e9_1602413_f33984f4a1c4cb67b249fda35b37581e.jpg"
+width="760"
+height="507"
+loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;/figure>
+&lt;details class="toc-inpage d-print-none d-xl-none " open>
+&lt;summary class="font-weight-bold">Table of Contents&lt;/summary>
+&lt;nav id="TableOfContents">
+&lt;ul>
+&lt;li>&lt;a href="#what-you-will-learn">What you will learn&lt;/a>&lt;/li>
+&lt;li>&lt;a href="#program-overview">Program overview&lt;/a>&lt;/li>
+&lt;li>&lt;a href="#courses-in-this-program">Courses in this program&lt;/a>&lt;/li>
+&lt;li>&lt;a href="#meet-your-instructor">Meet your instructor&lt;/a>&lt;/li>
+&lt;li>&lt;a href="#faqs">FAQs&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;/nav>
+&lt;/details>
+&lt;h2 id="what-you-will-learn">What you will learn&lt;/h2>
+&lt;ul>
+&lt;li>Fundamental &lt;mark>Python programming skills&lt;/mark>&lt;/li>
+&lt;li>&lt;mark>Statistical concepts&lt;/mark> and how to apply them in practice&lt;/li>
+&lt;li>Gain experience with the &lt;mark>Scikit&lt;/mark>, including data visualization with &lt;mark>Plotly&lt;/mark> and data wrangling with &lt;mark>Pandas&lt;/mark>&lt;/li>
+&lt;/ul>
+&lt;h2 id="program-overview">Program overview&lt;/h2>
+&lt;p>The demand for skilled data science practitioners is rapidly growing. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi.&lt;/p>
+&lt;h2 id="courses-in-this-program">Courses in this program&lt;/h2>
+&lt;h2 id="meet-your-instructor">Meet your instructor&lt;/h2>
 admin
-&lt;h2 id=&#34;faqs&#34;&gt;FAQs&lt;/h2&gt;
-&lt;details class=&#34;spoiler &#34;  id=&#34;spoiler-9&#34;&gt;
-  &lt;summary&gt;Are there prerequisites?&lt;/summary&gt;
-  &lt;p&gt;There are no prerequisites for the first course.&lt;/p&gt;
-&lt;/details&gt;
-&lt;details class=&#34;spoiler &#34;  id=&#34;spoiler-10&#34;&gt;
-  &lt;summary&gt;How often do the courses run?&lt;/summary&gt;
-  &lt;p&gt;Continuously, at your own pace.&lt;/p&gt;
-&lt;/details&gt;
-&lt;ul class=&#34;cta-group&#34;&gt;
-  
-  &lt;li&gt;
-    &lt;a href=&#34;python&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;Begin the course&lt;/a&gt;
-  &lt;/li&gt;
-  
-  
-&lt;/ul&gt;
-
-</description>
-    </item>
-    
-    <item>
-      <title>📊 Learn Data Science</title>
-      <link>/teaching/test/</link>
-      <pubDate>Sun, 24 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>/teaching/test/</guid>
-      <description>
-
-
-
-
-
-
-
-
-
-
-
-
-
-&lt;figure  &gt;
-  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;
-        &lt;img alt=&#34;&#34; srcset=&#34;
-               /teaching/test/featured_hu76eaa58daf827988c1005eeac201f4e9_1602413_f33984f4a1c4cb67b249fda35b37581e.jpg 400w,
-               /teaching/test/featured_hu76eaa58daf827988c1005eeac201f4e9_1602413_a1cd7731d90ffc91b37c0af3081d00b6.jpg 760w,
-               /teaching/test/featured_hu76eaa58daf827988c1005eeac201f4e9_1602413_1200x1200_fit_q75_lanczos.jpg 1200w&#34;
-               src=&#34;/teaching/test/featured_hu76eaa58daf827988c1005eeac201f4e9_1602413_f33984f4a1c4cb67b249fda35b37581e.jpg&#34;
-               width=&#34;760&#34;
-               height=&#34;507&#34;
-               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
-  &lt;/div&gt;&lt;/figure&gt;
-&lt;details class=&#34;toc-inpage d-print-none d-xl-none &#34; open&gt;
-  &lt;summary class=&#34;font-weight-bold&#34;&gt;Table of Contents&lt;/summary&gt;
-  &lt;nav id=&#34;TableOfContents&#34;&gt;
-  &lt;ul&gt;
-    &lt;li&gt;&lt;a href=&#34;#what-you-will-learn&#34;&gt;What you will learn&lt;/a&gt;&lt;/li&gt;
-    &lt;li&gt;&lt;a href=&#34;#program-overview&#34;&gt;Program overview&lt;/a&gt;&lt;/li&gt;
-    &lt;li&gt;&lt;a href=&#34;#courses-in-this-program&#34;&gt;Courses in this program&lt;/a&gt;&lt;/li&gt;
-    &lt;li&gt;&lt;a href=&#34;#meet-your-instructor&#34;&gt;Meet your instructor&lt;/a&gt;&lt;/li&gt;
-    &lt;li&gt;&lt;a href=&#34;#faqs&#34;&gt;FAQs&lt;/a&gt;&lt;/li&gt;
-  &lt;/ul&gt;
-&lt;/nav&gt;
-&lt;/details&gt;
-
-&lt;h2 id=&#34;what-you-will-learn&#34;&gt;What you will learn&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;Fundamental &lt;mark&gt;Python programming skills&lt;/mark&gt;&lt;/li&gt;
-&lt;li&gt;&lt;mark&gt;Statistical concepts&lt;/mark&gt; and how to apply them in practice&lt;/li&gt;
-&lt;li&gt;Gain experience with the &lt;mark&gt;Scikit&lt;/mark&gt;, including data visualization with &lt;mark&gt;Plotly&lt;/mark&gt; and data wrangling with &lt;mark&gt;Pandas&lt;/mark&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&#34;program-overview&#34;&gt;Program overview&lt;/h2&gt;
-&lt;p&gt;The demand for skilled data science practitioners is rapidly growing. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi.&lt;/p&gt;
-&lt;h2 id=&#34;courses-in-this-program&#34;&gt;Courses in this program&lt;/h2&gt;
-
-
-
-&lt;h2 id=&#34;meet-your-instructor&#34;&gt;Meet your instructor&lt;/h2&gt;
+&lt;h2 id="faqs">FAQs&lt;/h2>
+&lt;details class="spoiler " id="spoiler-9">
+&lt;summary>Are there prerequisites?&lt;/summary>
+&lt;p>There are no prerequisites for the first course.&lt;/p>
+&lt;/details>
+&lt;details class="spoiler " id="spoiler-10">
+&lt;summary>How often do the courses run?&lt;/summary>
+&lt;p>Continuously, at your own pace.&lt;/p>
+&lt;/details>
+&lt;ul class="cta-group">
+&lt;li>
+&lt;a href="python" class="btn btn-primary px-3 py-3">Begin the course&lt;/a>
+&lt;/li>
+&lt;/ul></description></item><item><title>📊 Learn Data Science</title><link>/teaching/test/</link><pubDate>Sun, 24 Jan 2021 00:00:00 +0000</pubDate><guid>/teaching/test/</guid><description>
+&lt;figure >
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >
+&lt;img alt="" srcset="
+/teaching/test/featured_hu76eaa58daf827988c1005eeac201f4e9_1602413_f33984f4a1c4cb67b249fda35b37581e.jpg 400w,
+/teaching/test/featured_hu76eaa58daf827988c1005eeac201f4e9_1602413_a1cd7731d90ffc91b37c0af3081d00b6.jpg 760w,
+/teaching/test/featured_hu76eaa58daf827988c1005eeac201f4e9_1602413_1200x1200_fit_q75_lanczos.jpg 1200w"
+src="/teaching/test/featured_hu76eaa58daf827988c1005eeac201f4e9_1602413_f33984f4a1c4cb67b249fda35b37581e.jpg"
+width="760"
+height="507"
+loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;/figure>
+&lt;details class="toc-inpage d-print-none d-xl-none " open>
+&lt;summary class="font-weight-bold">Table of Contents&lt;/summary>
+&lt;nav id="TableOfContents">
+&lt;ul>
+&lt;li>&lt;a href="#what-you-will-learn">What you will learn&lt;/a>&lt;/li>
+&lt;li>&lt;a href="#program-overview">Program overview&lt;/a>&lt;/li>
+&lt;li>&lt;a href="#courses-in-this-program">Courses in this program&lt;/a>&lt;/li>
+&lt;li>&lt;a href="#meet-your-instructor">Meet your instructor&lt;/a>&lt;/li>
+&lt;li>&lt;a href="#faqs">FAQs&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;/nav>
+&lt;/details>
+&lt;h2 id="what-you-will-learn">What you will learn&lt;/h2>
+&lt;ul>
+&lt;li>Fundamental &lt;mark>Python programming skills&lt;/mark>&lt;/li>
+&lt;li>&lt;mark>Statistical concepts&lt;/mark> and how to apply them in practice&lt;/li>
+&lt;li>Gain experience with the &lt;mark>Scikit&lt;/mark>, including data visualization with &lt;mark>Plotly&lt;/mark> and data wrangling with &lt;mark>Pandas&lt;/mark>&lt;/li>
+&lt;/ul>
+&lt;h2 id="program-overview">Program overview&lt;/h2>
+&lt;p>The demand for skilled data science practitioners is rapidly growing. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi.&lt;/p>
+&lt;h2 id="courses-in-this-program">Courses in this program&lt;/h2>
+&lt;h2 id="meet-your-instructor">Meet your instructor&lt;/h2>
 admin
-&lt;h2 id=&#34;faqs&#34;&gt;FAQs&lt;/h2&gt;
-&lt;details class=&#34;spoiler &#34;  id=&#34;spoiler-9&#34;&gt;
-  &lt;summary&gt;Are there prerequisites?&lt;/summary&gt;
-  &lt;p&gt;There are no prerequisites for the first course.&lt;/p&gt;
-&lt;/details&gt;
-&lt;details class=&#34;spoiler &#34;  id=&#34;spoiler-10&#34;&gt;
-  &lt;summary&gt;How often do the courses run?&lt;/summary&gt;
-  &lt;p&gt;Continuously, at your own pace.&lt;/p&gt;
-&lt;/details&gt;
-&lt;ul class=&#34;cta-group&#34;&gt;
-  
-  &lt;li&gt;
-    &lt;a href=&#34;python&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;Begin the course&lt;/a&gt;
-  &lt;/li&gt;
-  
-  
-&lt;/ul&gt;
-
-</description>
-    </item>
-    
-  </channel>
-</rss>
+&lt;h2 id="faqs">FAQs&lt;/h2>
+&lt;details class="spoiler " id="spoiler-9">
+&lt;summary>Are there prerequisites?&lt;/summary>
+&lt;p>There are no prerequisites for the first course.&lt;/p>
+&lt;/details>
+&lt;details class="spoiler " id="spoiler-10">
+&lt;summary>How often do the courses run?&lt;/summary>
+&lt;p>Continuously, at your own pace.&lt;/p>
+&lt;/details>
+&lt;ul class="cta-group">
+&lt;li>
+&lt;a href="python" class="btn btn-primary px-3 py-3">Begin the course&lt;/a>
+&lt;/li>
+&lt;/ul></description></item></channel></rss>
